@@ -7,11 +7,6 @@
 // 15 18
 
 
-// Console.WriteLine("Введите количество строк:");
-// int rows = Convert.ToInt32(Console.ReadLine());
-
-// Console.WriteLine("Введите количество столбцов:");
-// int columns = Convert.ToInt32(Console.ReadLine());
 
 int[,] newArray = GetArray(2, 2, 0, 10);
 int[,] newArray2 = GetArray(2, 2, 0, 10);
